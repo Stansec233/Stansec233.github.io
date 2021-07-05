@@ -41,7 +41,8 @@ menu:
     url: /pages/coding.html
   - title: LOKI
     url: /pages/LOKI.html
-    
+  - title: R&M5
+    url: /pages/R&M.html
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: true
