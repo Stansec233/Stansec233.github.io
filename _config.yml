@@ -43,6 +43,10 @@ menu:
     url: /pages/LOKI.html
   - title: R&M5
     url: /pages/R&M.html
+  - title: 黑寡妇
+    url: /pages/BW.html
+  - title: 致命女人
+    url: /pages/WWK.html
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: true
